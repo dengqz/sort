@@ -1,7 +1,7 @@
 package heapsort;
 
 /**
- * 堆排序
+ * 堆排序(不稳定的排序方法)
  * Created by cheese on 2018/6/18.
  */
 public class HeapSort {

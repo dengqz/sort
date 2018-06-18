@@ -1,7 +1,7 @@
 package quicksort;
 
 /**
- * 快速排序
+ * 快速排序（不稳定的排序方法）
  * Created by cheese on 2018/6/18.
  */
 public class QuickSort {

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 基数排序
+ * 基数排序（稳定排序）
  * Created by cheese on 2018/6/18.
  */
 public class RadixSort {

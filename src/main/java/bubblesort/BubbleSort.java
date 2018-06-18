@@ -1,7 +1,7 @@
 package bubblesort;
 
 /**
- * 冒泡排序
+ * 冒泡排序（稳定排序）
  * Created by cheese on 2018/6/18.
  */
 public class BubbleSort {
@@ -26,3 +26,6 @@ public class BubbleSort {
         return array;
     }
 }
+//遍历待排序的数组，每次遍历比较相邻的两个元素，
+// 如果他们的排列顺序错误就交换他们的位置，经过一趟排序后，
+// 最大的元素会浮置数组的末端重复操作，直到排序完成。

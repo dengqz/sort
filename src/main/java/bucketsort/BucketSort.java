@@ -1,7 +1,7 @@
 package bucketsort;
 
 /**
- * 桶排序
+ * 桶排序（稳定排序）
  * Created by cheese on 2018/6/18.
  */
 public class BucketSort {
