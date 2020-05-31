@@ -1,10 +1,13 @@
 package bubblesort;
 
 /**
- * 冒泡排序（稳定排序）
+ * 冒泡排序（稳定排序）(比较类排序)
+ * 时间复杂度平均：O(n²) 最坏：O(n²) 最好：O(n)
+ * 空间复杂度：O(1)
  * Created by cheese on 2018/6/18.
  */
 public class BubbleSort {
+
     public static void main(String[] args) {
         int[] array = {1, 7, 3, 9, 8, 5, 4, 6};
         array = sort(array);
